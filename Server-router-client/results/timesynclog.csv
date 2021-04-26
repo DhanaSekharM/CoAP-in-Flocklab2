@@ -1,0 +1,10 @@
+timestamp,observer_id,message
+1618682564.8968332,7,time source: PPS | adjusted offset: -150ns | measured offset: -1929ns | estimated error: +/-  312ns
+1618682564.0193043,20,time source: PPS | adjusted offset: +65ns | measured offset: -733ns | estimated error: +/-  231ns
+1618682564.603802,3,time source: PPS | adjusted offset: -325ns | measured offset: -1252ns | estimated error: +/-  252ns
+1618682909.9574072,7,time source: PPS | adjusted offset: -974ns | measured offset: -1052ns | estimated error: +/-  293ns
+1618682909.9588482,7,GNSS PPS reception: 100.00%
+1618682912.1222775,20,time source: PPS | adjusted offset: -415ns | measured offset: -716ns | estimated error: +/-  195ns
+1618682912.1238427,20,GNSS PPS reception: 100.00%
+1618682913.2581367,3,time source: PPS | adjusted offset: -248ns | measured offset: -1146ns | estimated error: +/-  164ns
+1618682913.25946,3,GNSS PPS reception: 100.00%

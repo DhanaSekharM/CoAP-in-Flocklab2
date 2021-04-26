@@ -1,0 +1,7 @@
+timestamp,observer_id,message
+1618830205.769993,7,time source: PPS | adjusted offset: +32ns | measured offset: -2822ns | estimated error: +/-  317ns
+1618830204.6861129,3,time source: PPS | adjusted offset: -172ns | measured offset: -801ns | estimated error: +/-  216ns
+1618830311.2080393,7,time source: PPS | adjusted offset: -106ns | measured offset: -266ns | estimated error: +/-  211ns
+1618830311.209051,7,GNSS PPS reception: 100.00%
+1618830311.4496746,3,time source: PPS | adjusted offset: -134ns | measured offset: -299ns | estimated error: +/-  157ns
+1618830311.4551775,3,GNSS PPS reception: 100.00%

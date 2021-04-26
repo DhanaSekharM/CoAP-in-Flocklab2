@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id$ -->
+
+<testConf xmlns="http://www.flocklab.ethz.ch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.flocklab.ethz.ch xml/flocklab.xsd">
+	<generalConf>
+		<name>server-client</name>
+		<description>COAP server client on flocklab</description>
+		<scheduleAsap>
+			<durationSecs>300</durationSecs>
+		</scheduleAsap>
+	</generalConf>
+
+	<targetConf>
+		<obsIds>3</obsIds>
+		<voltage>3.3</voltage>
+		<dbImageId>2602</dbImageId>
+	</targetConf>
+
+    <targetConf>
+		<obsIds>7</obsIds>
+		<voltage>3.3</voltage>
+		<dbImageId>2603</dbImageId>
+	</targetConf>
+
+    <targetConf>
+		<obsIds>20</obsIds>
+		<voltage>3.3</voltage>
+		<dbImageId>2604</dbImageId>
+	</targetConf>
+
+	<serialConf>
+		<obsIds>20 3 7</obsIds>
+		<baudrate>115200</baudrate>
+		<remoteIp></remoteIp>
+	</serialConf>
+
+	<powerProfilingConf>
+        <obsIds>20 7 3</obsIds>
+        <offset>0</offset>
+    </powerProfilingConf>
+
+
+
+</testConf>
